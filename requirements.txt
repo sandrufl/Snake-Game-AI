@@ -1,0 +1,11 @@
+Requirements for Snake Game AI
+
+1. Python 3.6 or higher
+2. Required Python libraries:
+   - torch
+   - numpy
+   - matplotlib
+   - pygame
+   - IPython
+Install the required libraries using pip:
+pip install torch numpy matplotlib pygame IPython

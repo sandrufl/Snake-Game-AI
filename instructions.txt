@@ -1,0 +1,7 @@
+Instructions for Snake Game AI
+
+1. The game uses an AI agent to control the snake.
+2. The snake repeatedly plays the game, trying to improve its performance over time.
+3. A separate window displays a graph showing the performance of the AI agent, illustrating how it improves with each iteration.
+4. The game ends when the snake collides with the walls or its own body, but the AI agent will start a new game immediately after.
+5. To run the game, execute the `Agent.py` file.
